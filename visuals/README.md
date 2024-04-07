@@ -1,1 +1,0 @@
-Project dashboard image
